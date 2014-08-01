@@ -30,8 +30,7 @@
 
 ## Mobile
 
-1 隐藏图片的下载 [防止写类似display:none引起不必要的图片下载]
-2 外联样式数量 [http请求数控制]
-3 图片大小是否满足当前展示 [R屏不是R屏的图片分开，不知道能不能获取这个数据]
-4 css3性能 [box-shadow等低性能的css使用次数统计]
-5 no iframe [有iframe的直接差评]
+* 隐藏图片的下载 [防止写类似display:none引起不必要的图片下载]
+* 外联样式数量 [http请求数控制]
+* css3性能 [box-shadow等低性能的css使用次数统计]
+* no iframe [有iframe的直接差评]
